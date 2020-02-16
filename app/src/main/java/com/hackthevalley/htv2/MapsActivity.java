@@ -244,12 +244,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         return myCity;
     }
 
-//    public String getData()
-//    {
-//        Log.d("IM TRYING", "TO BE A GOOD BUDHIST");
-//        return myDB.rawQuery("SELECT * FROM location_data WHERE ID = 1 Limit 2;", null).toString();
-//    }
-
 
     // time interval
     @Override
